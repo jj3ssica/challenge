@@ -43,4 +43,4 @@ VALUES
 INSERT INTO inventario (modelo, transmissao, motor, combustivel, marcas_id)
 VALUES
 	('BMW 218', 'Automatica', '2.0', 'Gasolina', 1),
-    ('xe 2.0D', 'Manual', '2.0', 'Diesel', 4);S
+    ('xe 2.0D', 'Manual', '2.0', 'Diesel', 4);
